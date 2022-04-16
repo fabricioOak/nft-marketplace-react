@@ -14,6 +14,13 @@ const App = () => {
 				mockupImg={assets.homeHero}
 				banner="banner"
 			/>
+			<SectionWrapper
+				title="Smart User Experience and Security with ProNef Store"
+				description="ProNef is a decentralized, open-source, and fully-featured NFT exchange."
+				mockupImg={assets.homeCards}
+				reverse
+			/>
+			<Features />
 		</>
 	);
 };
