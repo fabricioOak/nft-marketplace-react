@@ -1,5 +1,6 @@
 import Download from "./Download";
 import Features from "./Features";
 import SectionWrapper from "./SectionWrapper";
+import Footer from "./Footer";
 
-export { Download, Features, SectionWrapper };
+export { Download, Features, SectionWrapper, Footer };
