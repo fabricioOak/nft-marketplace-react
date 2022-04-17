@@ -3,7 +3,7 @@ import styles from "../styles/Global";
 
 const Footer = () => {
 	return (
-		<div>
+		<div className="px-4 py-2 justify-center items-center bg-purple-400 flex-col text-center banner04">
 			<div class="container flex flex-col items-center px-8 mt-8 py-4 mx-auto max-w-7xl sm:flex-row">
 				<p className={`font-extrabold	 ${styles.pText} ${styles.whiteText}`}>
 					Made with love by
